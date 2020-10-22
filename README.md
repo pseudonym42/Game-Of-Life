@@ -20,7 +20,7 @@ See [Conway's_Game_of_Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
 ## Implementation details
 
-To start the game click "Start" button. Note that <Survived generations> stops counting
+To start the game click "Start" button. Note that `Survived generations` stops counting
 when there are no changes on the grid i.e. if no cells die or get reborn.
 
 Build with React v17
